@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: mini-cdn
+# edge-node
+server:
+  port: 8081
+cdn:
+  origin:
+    url: http://localhost:9090
+  region: us-east
+  ttl-seconds: 60
+  cache:
+    max-weight-bytes: 67108864

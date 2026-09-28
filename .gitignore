@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets & environment
+.env
+*.pem
+*.key
+
+# Logs & temp files
+*.log
+tmp/
+
+# Common dependencies (adjust to your stack)
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
