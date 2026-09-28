@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: dns-router
+# dns-router
+server:
+  port: 8090
+router:
+  regions: "{us-east: 'http://localhost:8081', eu-west: 'http://localhost:8082'}"
