@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5c16e31-b1c9-4f9b-b4be-daf8d934260a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeCacheService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3JrwB4jlF1q6wdj5D05KSixsK9S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DnsRouterApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.EdgeNodeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.OriginApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Projects/mini-cdn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Compound.mini-cdn-all">
+    <configuration name="mini-cdn-all" type="CompoundRunConfigurationType">
+      <toRun name="DnsRouterApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="EdgeNodeApplication" type="SpringBootApplicationConfigurationType" />
+      <toRun name="OriginApplication" type="SpringBootApplicationConfigurationType" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="origin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="origin" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DnsRouterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="dns-router" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="MM.dns_router.DnsRouterApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MM.dns_router.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EdgeNodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="mini-cdn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="MM.edge.EdgeNodeApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MM.edge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OriginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="origin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="MM.origin.OriginApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MM.origin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Compound.mini-cdn-all" />
+      <item itemvalue="Spring Boot.DnsRouterApplication" />
+      <item itemvalue="Spring Boot.EdgeNodeApplication" />
+      <item itemvalue="Spring Boot.OriginApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5c16e31-b1c9-4f9b-b4be-daf8d934260a" name="Changes" comment="" />
+      <created>1790432355541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790432355541</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mini_cdn$DnsRouterApplication.ic" NAME="DnsRouterApplication Coverage Results" MODIFIED="1790434258830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>MM.dns_router.*</FILTER>
+    </SUITE>
+  </component>
+</project>
