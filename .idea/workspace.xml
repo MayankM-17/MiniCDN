@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5c16e31-b1c9-4f9b-b4be-daf8d934260a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeCacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeCacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/edge-node/src/main/java/MM/edge/EdgeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dns-router/src/main/java/MM/dns_router/ConsistentHashRing.java" beforeDir="false" afterPath="$PROJECT_DIR$/dns-router/src/main/java/MM/dns_router/ConsistentHashRing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dns-router/src/main/java/MM/dns_router/ResolveController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dns-router/src/main/java/MM/dns_router/ResolveController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
